@@ -11,6 +11,21 @@ There is a lot of data available to search for possible causes of the decline in
 
 The main data source is the "Bundeswahlleiter", the federal authority regarding elections in Germany. It publishes detailed election results by constituency (Wahlkreis) and also socio-economic data for all constituencies.
 
+## Plots
+
+<p float="left">
+  <img src="export/01-absolute-voter-numbers.png" width="200" />
+  <img src="export/02-voter-turnout.png" width="200" />
+  <img src="export/03-voter-turnout-east-west.png" width="200" />
+  <img src="export/04-correlations.png" width="200" />
+</p>
+<p float="left">
+  <img src="export/05-unemployment-voter-turnout.png" width="200" />
+  <img src="export/06-income-voter-turnout.png" width="200" />
+  <img src="export/07-subplots.png" width="200" />
+  <img src="export/08-bivariate-map.png" width="200" />
+</p>
+
 ## License
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
