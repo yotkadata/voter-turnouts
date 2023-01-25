@@ -9,7 +9,7 @@ For decades, Germany had very high voter turnouts of up to 91% (1972) in its fed
 
 There is a lot of data available to search for possible causes of the decline in voter turnout. This project tries to find and visualize a small part of them.
 
-The main data source is the "Bundeswahlleiter", the federal authority regarding elections in Germany. It publishes detailed election results by constituency (Wahlkreis) and also socio-economic data for all constituencies.
+The main data source is the ["Bundeswahlleiter"](https://www.bundeswahlleiter.de/), the federal authority regarding elections in Germany. It publishes detailed election results by constituency (Wahlkreis) and also socio-economic data for all constituencies.
 
 ## Plots
 
